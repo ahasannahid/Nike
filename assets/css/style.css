@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: FFF9F4;
+}
+/* Header */
+.banner-text-bg{
+    color: #FA804C;
+    font-size: 4rem;
+}
+.text-color{
+    color: #363958;
+}
+.formal-shoe-bg{
+    color: white;
+}
+.shoe-bg{
+    background-color: #F1F1F1;
+}
+.w-20{
+    width: 20%;
+  }
